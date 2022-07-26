@@ -1,2 +1,3 @@
-# reading_notes
-A collection of reading notes from Code Fellows Cyber Ops
+# Table of Contents
+
+[Class 01](class01.md)
