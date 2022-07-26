@@ -1,6 +1,6 @@
 # Table of Contents
 
-<b>Ops 201</b>
+### Ops 201
 
 ## Module 1
 
