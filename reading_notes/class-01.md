@@ -1,0 +1,4 @@
+# How to Use System Restore in Windows
+
+System Restore is a tool within Windows that helps recover and restore a saved state of the operating system to a stable configuration with its history. Restoring could also assist in troubleshooting incorrect driver configuration.
+System Restore can be found within Control Panel → System and Security→ System→System Protection→System Properties→System Restore. Under the System Restore window, we have the option to restore from different historic points, depending on how many we have decided to keep. After confirming a restore point, the system will reboot and a notification will pop up indicating the restoration has been successfully accomplished. System Restore will not affect non-system files, such as personal data, documents, applications, videos, etc.
