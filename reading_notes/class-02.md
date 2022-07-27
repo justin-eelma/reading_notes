@@ -11,3 +11,4 @@ GitHub vocabulary:
 <b>VS Code</b> is a source code editor created by Microsoft. Also known as an Integrated Development Evnironment, IDE's assist in the development of software versus a plain text editor. VS Code allows the user to load custom extensions such as debuggers and cloud integration support. 
 
 VS Code supports cloned repositries from GitHub and updates can be pushed directly onto GitHub. 
+
