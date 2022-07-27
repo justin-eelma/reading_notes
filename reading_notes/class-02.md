@@ -8,7 +8,7 @@ GitHub vocabulary:
 - <i>pull request</i>: a permission asking the original author to include new code.
 - <i>fork</i>: a copy of an existing repository but updates are not in sync with the original repo.
 
-<b>VS Code</b> is a source code editor created by Microsoft. Also known as an Integrated Development Evnironment, IDE's assist in the development of software versus a plain text editor. VS Code allows the user to load custom extensions such as debuggers and cloud integration support. 
+<b>VS Code</b> is a source code editor created by Microsoft. Also known as an Integrated Development Evnironment, IDE's assist in the entire software devlopment process, to include testing and compiling, as opposed to a plain text editor which is only responsible for writing code. VS Code allows the user to load custom extensions such as debuggers and cloud integration support. 
 
 VS Code supports cloned repositries from GitHub and updates can be pushed directly onto GitHub. 
 
