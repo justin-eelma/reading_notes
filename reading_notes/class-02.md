@@ -1,6 +1,6 @@
 # Dev Tools
 
-<b>GitHub</b> is a service that helps developers store and manage their code. Development relies heavily on managing the version of a piece of software, this is where the Git comes into play. Git is a version-control system that allows branching and merging of the repository. This type of editing allows the author or collaborators to safely work on the source code without making pernament edits that could disrupt the main development workflow. 
+<b>GitHub</b> is a service that helps developers store and manage their code. Development relies heavily on managing the version of the software, this is where the Git comes into play. Git is a version-control system that allows branching and merging of the repository. This type of editing allows the author or collaborators to safely work on the source code without making pernament edits that could disrupt the main development workflow. 
 
 GitHub vocabulary:
 - <i>commit</i>: a saved state within the code.
