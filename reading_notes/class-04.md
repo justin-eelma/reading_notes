@@ -2,7 +2,7 @@
 
 CompTIA A+ Troubleshooting Steps:
 
-<b>#####Step 1)</b> Identify information to fully understand the possible problem. Ideally be able to duplicate the problem.
+<b>##### Step 1)</b> Identify information to fully understand the possible problem. Ideally be able to duplicate the problem.
 
 Typically the issue has multiple symptoms, rather than just one thing. It’s crucial to document all in order to understand the entirety of the problem.
 
