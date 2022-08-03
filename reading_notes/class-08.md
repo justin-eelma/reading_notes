@@ -1,6 +1,6 @@
 # System Log Analysis, Registry, Control Panel
 ## Windows Registry Demystified: What You Can Do With It
-The Windows Registry is a database where Windows (among other programs within Windows) store configuration settings. 
+The Windows Registry is a database where Windows (among other programs within Windows) can store configuration settings. 
 Settings are both system wide, and specific to accounts on the OS; System wide registry settings are located in \Windows\System32\Config; user specific keys are located on \Windows\Users\Name in a NTUSER.dat file. 
 The registry contains "keys", within keys are "values" that contain variables, in other words, configuration settings. In the registry, you'll see groups of keys and values, known as "hives".
 The registry can be accessed by all programs, which share universal settings for the user, as opposed to the older way of storing configuration settings accross the OS. But this is up to the discretion of the developer whether or not, and to what extent, to use the registry. 
