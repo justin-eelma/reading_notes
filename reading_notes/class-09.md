@@ -9,7 +9,7 @@ An SOP is a policy that hold instructions for the purpose to enforce how to carr
  ### The Elements of a successful SOP
   - Maintained. Regularly update the SOP to stay current with new technologies or methodologies
   - Readable. An easy to follow layout with organized formatting. Using flowcharts and diagrams help visualize steps.
-  - Consumbale. Write in a way that can be understood by the entire organization. Understand your audience.
+  - Consumbale. Written in a way that can be understood by the entire group. Understand your audience.
   - Actionable. Clearly worded objective.
   - Measureable. Avoid vaguity. 
 
