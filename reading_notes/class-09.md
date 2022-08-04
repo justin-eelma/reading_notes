@@ -1,6 +1,6 @@
 # Readings: Workstation Deployment SOP
 ## Standard Operating Procedures
-An SOP is a policy, which exists within an organization, that hold instructions for the purpose to enforce how to carry out specific tasks. How SOPs are written are an important aspect of successful implementation. Poorly written SOPs can open the policy up for misinterpretation which can become misconstrued and have negative impacts on a company. Three sections to hit on while creating an SOP are: 
+An SOP is a policy that hold instructions for the purpose to enforce how to carry out specific tasks within an organization. How SOPs are written are an important aspect of successful implementation. Poorly written SOPs can open the policy up for misinterpretation which can become misconstrued and have negative impacts on a company. Three sections to hit on while creating an SOP are: 
   - Policy: the opening statement that answers the purpose
   - SOP: answers "what, when, and why" - needs to be specific as there may be multiple SOPs that are related to a single topic. 
   - Work Instructions: answers "how" - the instructions to carry out the SOP
