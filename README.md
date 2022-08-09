@@ -17,3 +17,7 @@
 - [Class 08 - Readings: System Log Analysis, Registry, Control Panel](reading_notes/class-08.md)
 - [Class 09 - Readings: Workstation Deployment SOP](reading_notes/class-09.md)
 - [Class 10 - Imaging, Backup, and Recovery](reading_notes/class-10.md)
+
+#### Module 3
+
+- [Class 11 - Data Restoration, Startup Repair, and Secure Disposal](reading_notes/class-11.md)
