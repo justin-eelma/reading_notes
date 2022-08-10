@@ -8,4 +8,4 @@ Amazon Elastic Compute Cloud (EC2) is a service that provides virtual servers ba
 
 Amazon EC2 uses a virtual appliance called Amazon Machine Image (AMI), which is responsible for creating on-demand VM's within the cloud. You can launch multiple instances from a single AMI when you require multiple instances with the same configuration.
 
-In conclusion, virtualizing is a cost effective way of running a enterprise, the elasticity of virtualizations have made it possible to incorporate the appropriate amount resources for the task at hand. 
+Virtualizing is a cost effective way of running a enterprise, the elasticity of virtualizations have made it possible to incorporate the appropriate amount resources for the task at hand. 
