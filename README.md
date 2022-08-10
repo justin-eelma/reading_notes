@@ -22,3 +22,4 @@
 
 - [Class 11 - Data Restoration, Startup Repair, and Secure Disposal](reading_notes/class-11.md)
 - [Class 12 - Virtualizing a Router with pfSense](reading_notes/class-12.md)
+- [Class 13- Cloud Virtualization with AWS](reading_notes/class-13.md)
